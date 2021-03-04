@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVMIntro101</string>
+    <string name="repository_count_d">Repository Count: %d</string>
+</resources>
